@@ -91,7 +91,7 @@ Se realizaron pruebas con **5 usuarios externos**.
 
 📄 Documentación completa disponible en:
 
-    /pruebas_usabilidad/
+    /PRUEBAS DE USABILIDAD – EcoCity/
 
 ------------------------------------------------------------------------
 
