@@ -91,7 +91,7 @@ Se realizaron pruebas con **5 usuarios externos**.
 
 📄 Documentación completa disponible en:
 
-    /PRUEBAS DE USABILIDAD – EcoCity.pdf/
+    /PRUEBAS DE USABILIDAD – EcoCity/
 
 ------------------------------------------------------------------------
 
@@ -146,16 +146,16 @@ V2.
 ## 🔗 Enlaces del Proyecto
 
 🎨 Prototipo Figma:\
-(Pegar aquí enlace público)
+(https://luxury-undo-92305315.figma.site/)
 
 📊 Presentación Canva:\
-(Pegar aquí enlace público)
+(https://www.canva.com/design/DAHCIGShm4I/w1x3b7uQrWK93WFwC8Afdg/edit?utm_content=DAHCIGShm4I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ------------------------------------------------------------------------
 
 ## 👥 Autores
 
--   Alberto Alcalde Montero\
+-   Alberto Alcalde Montero
 -   Alejandro Ramón Rolón Vázquez
 
 ------------------------------------------------------------------------
