@@ -44,8 +44,8 @@ Primera versión visual donde se definieron:
 
 📷 **Capturas V1:**
 
-![Login V1](imagenes/Login-V1.png) ![Listado
-V1](imagenes/Listado-V1.png) ![Detalle V1](imagenes/Detalle-V1.png)
+![Login V1](imagenes/LoginV1.png) ![Listado
+V1](imagenes/ListadoV1.png) ![Detalle V1](imagenes/DetalleV1.png)
 
 ------------------------------------------------------------------------
 
@@ -64,8 +64,8 @@ Mejoras aplicadas:
 
 📷 **Capturas V2:**
 
-![Login V2](imagenes/Login-V2.png) ![Listado
-V2](imagenes/Listado-V2.png) ![Detalle V2](imagenes/Detalle-V2.png)
+![Login V2](imagenes/LoginV2.png) ![Listado
+V2](imagenes/ListadoV2.png) ![Detalle V2](imagenes/DetalleV2.png)
 
 ------------------------------------------------------------------------
 
