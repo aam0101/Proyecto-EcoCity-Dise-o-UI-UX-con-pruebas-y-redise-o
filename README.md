@@ -135,10 +135,18 @@ V2.
 
 ## 📂 Estructura del Repositorio
 
-    /figma
-    /documentacion
-    /pruebas_usabilidad
     /imagenes
+        LoginV1.png
+        ListadoV1.png
+        DetalleV1.png
+        LoginV2.png
+        ListadoV2.png
+        DetalleV2.png
+
+    ANÁLISIS + JUSTIFICACIÓN.pdf
+    Documentación GUI.pdf
+    PRUEBAS DE USABILIDAD – EcoCity.pdf
+    Presentación Diapositivas Tecnología y Digitalización.pdf
     README.md
 
 ------------------------------------------------------------------------
